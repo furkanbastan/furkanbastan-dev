@@ -1,0 +1,46 @@
+:root {
+    --primary: #6c5ce7;
+    --primary-dark: #5c4ace;
+    --primary-3: rgba(108, 92, 231, .3);
+    --primary-6: rgba(108, 92, 231, .6);
+    --white: #fff;
+    --white-200: #f2f2f2;
+    --hover: #f8f8f222;
+    --gray-200: #f5f5f5;
+    --gray-400: #dfe6e9;
+    --gray-500: #c7c7c7;
+    --gray-700: #d0d0ce;
+    --gray-800: #8f9ba8;
+    --gray-900: #8c8c8c;
+    --black-300: #7b7b7b;
+    --black-500: #474747;
+    --black-700: #161618;
+    --black-900: #08070b;
+    --brown-200: #febb7f;
+    --brown-700: #ff9d80;
+
+    --fw-sm: 300;
+    --fw-md: 400;
+    --fw-lg: 700;
+    --fw-xl: 900;
+
+    --fs-xs: 13px;
+    --fs-sm: 14px;
+    --fs-md: 16px;
+    --fs-lg: 18px;
+    --fs-xl: 28px;
+    --fs-2xl: 38px;
+    --fs-3xl: 44px;
+
+    --space-1: 4px;
+    --space-2: 8px;
+    --space-3: 12px;
+    --space-4: 16px;
+    --space-5: 20px;
+    --space-6: 24px;
+    --space-7: 28px;
+    --space-8: 32px;
+    --space-9: 36px;
+    --space-10: 40px;
+    --space-11: 44px;
+}

@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.headerWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.logo {
+    font-weight: var(--fw-xl);
+    font-size: var(--fs-xl);
+    transition: color 250ms ease;
+}
+
+.logo:hover{
+    color: var(--primary);
+}
+
+.image {
+    position: relative;
+    width: var(--fs-3xl);
+    height: var(--fs-3xl);
+    border-radius: 999px;
+    border: 4px solid transparent;
+    overflow: hidden;
+    transition: border-color 250ms ease;
+}
+
+.image:hover{
+    border: 4px solid var(--primary);
+}

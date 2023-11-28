@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    font-size: var(--fs-md);
+}
+
+*::selection {
+    background-color: var(--primary);
+}
+
+body {
+    color: var(--white);
+    background-image: linear-gradient(135deg, var(--black-900), var(--black-700));
+    background-position: center;
+    background-attachment: fixed;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+}
+
+.root-layout {
+    display: grid;
+    grid-template-columns: 1fr min(1024px, 90%) 1fr;
+    grid-template-rows: 100px 1fr 40px;
+    gap: var(--space-10);
+    min-height: 100vh;
+
+    &>* {
+        grid-column: 2;
+    }
+}
+
+.home-page-container{
+    display: grid;
+    gap: var(--space-10);
+}

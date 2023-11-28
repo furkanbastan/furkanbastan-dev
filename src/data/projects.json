@@ -1,0 +1,70 @@
+{
+    "projects": [
+        {
+            "id": "netfilms",
+            "category": "next.js",
+            "title": "NetFilms Landing Page",
+            "description": "Nefilms landing page designed by @Youtube/mehmetpekcan",
+            "url": "https://github.com/furkanbastan/nextjs-netfilms",
+            "image": "netfilms.png"
+        },
+        {
+            "id": "ecommerce",
+            "category": "react.js",
+            "title": "E-Commerce Landing Page",
+            "description": "E-Commerce page designed by me",
+            "url": "https://github.com/furkanbastan/reactjs-ecommerce-landing-page",
+            "image": "ecommorce-landing-page.png"
+        },
+        {
+            "id": "task-manager",
+            "category": "react.js",
+            "title": "Task Manager App",
+            "description": "Task manager app designed by @Youtube/mehmetpekcan",
+            "url": "https://github.com/furkanbastan/reactjs-task-manager",
+            "image": "task-manager.png"
+        },
+        {
+            "id": "sign-up-landing-page",
+            "category": "react.js",
+            "title": "Sign Up Landing Page",
+            "description": "Sign Up page width form validations...",
+            "url": "https://github.com/furkanbastan/reactjs-sign-up-landing-page",
+            "liveUrl": "https://reactjs-sign-up-landing-page.vercel.app/",
+            "image": "sign-up.png"
+        },
+        {
+            "id": "todosapp",
+            "category": "react.js",
+            "title": "Todos App",
+            "description": "Todos App created by me. Features redux-toolkit, styled-components, react-hook-forms...",
+            "url": "https://github.com/furkanbastan/reactjs-todo",
+            "image": "todo.png"
+        },
+        {
+            "id": "interactive-comments",
+            "category": "next.js",
+            "title": "Interactive Comments",
+            "description": "Interactive comments designed by Frontend Mentor",
+            "url": "https://github.com/furkanbastan/react-interactive-comments",
+            "image": "interactive-comments.png"
+        },
+        {
+            "id": "newsletter-app",
+            "category": "react.js",
+            "title": "Newsletter Landing Page",
+            "description": "A responsible newsletter landing page...",
+            "url": "https://github.com/furkanbastan/reactjs-newsletter-landing-page",
+            "image": "newsletter.png"
+        },
+        {
+            "id": "multi-step-form",
+            "category": "react.js",
+            "title": "Multi Step Form",
+            "description": "Multi Step Form designed by Frontend Mentor",
+            "url": "https://github.com/furkanbastan/reactjs-multi-step-form",
+            "liveUrl": "https://reactjs-multi-step-form.vercel.app/",
+            "image": "multi-step-form.png"
+        }
+    ]
+}

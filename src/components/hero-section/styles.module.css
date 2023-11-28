@@ -1,0 +1,51 @@
+.heroSection {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.title {
+    position: relative;
+    font-size: 64px;
+    font-weight: 700;
+    background: linear-gradient(to right, var(--primary), var(--brown-700));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.titleBlur {
+    position: absolute;
+    left: -5%;
+    bottom: -80%;
+    z-index: -1;
+    filter: blur(2px);
+    opacity: 0.1;
+    font-size: 120px;
+    font-weight: 700;
+    background: linear-gradient(to right, var(--primary), var(--brown-700));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.content {
+    font-size: 30px;
+    color: var(--gray-800);
+}
+
+.white {
+    color: var(--white);
+}
+
+.nav {
+    display: flex;
+    gap: 10px;
+}
+
+.nav>a {
+    font-size: 30px;
+    transition: color 250ms ease;
+}
+
+.nav>a:hover {
+    color: var(--primary);
+}
