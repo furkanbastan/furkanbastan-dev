@@ -25,7 +25,7 @@
             "description": "My clone project that I developed inspired by the Medium blog site.",
             "url": "https://reactjs-ready.vercel.app/",
             "urlSourceCode": "https://github.com/furkanbastan/reactjs-ready",
-            "image": "medium.png"
+            "image": "medium.PNG"
         },
         {
             "id": "task-manager",
