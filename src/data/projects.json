@@ -19,6 +19,15 @@
             "image": "ecommorce-landing-page.png"
         },
         {
+            "id": "medüum-clone",
+            "category": "react.js",
+            "title": "Medium Clone",
+            "description": "My clone project that I developed inspired by the Medium blog site.",
+            "url": "https://reactjs-ready.vercel.app/",
+            "urlSourceCode": "https://github.com/furkanbastan/reactjs-ready",
+            "image": "medium.png"
+        },
+        {
             "id": "task-manager",
             "category": "react.js",
             "title": "Task Manager App",
