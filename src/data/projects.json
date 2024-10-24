@@ -6,6 +6,7 @@
             "title": "NetFilms Landing Page",
             "description": "Nefilms landing page designed by @Youtube/mehmetpekcan",
             "url": "https://nextjs-netfilms.vercel.app/",
+            "urlSourceCode": "",
             "image": "netfilms.png"
         },
         {
@@ -13,7 +14,8 @@
             "category": "react.js",
             "title": "E-Commerce Landing Page",
             "description": "E-Commerce page designed by me",
-            "url": "https://github.com/furkanbastan/reactjs-ecommerce-landing-page",
+            "url": "https://reactjs-ecommerce-landing-page.vercel.app/",
+            "urlSourceCode": "https://github.com/furkanbastan/reactjs-ecommerce-landing-page",
             "image": "ecommorce-landing-page.png"
         },
         {
@@ -21,7 +23,8 @@
             "category": "react.js",
             "title": "Task Manager App",
             "description": "Task manager app designed by @Youtube/mehmetpekcan",
-            "url": "https://github.com/furkanbastan/reactjs-task-manager",
+            "url": "https://react-task-manager-roan.vercel.app/",
+            "urlSourceCode": "https://github.com/furkanbastan/reactjs-task-manager",
             "image": "task-manager.png"
         },
         {
@@ -29,8 +32,8 @@
             "category": "react.js",
             "title": "Sign Up Landing Page",
             "description": "Sign Up page width form validations...",
-            "url": "https://github.com/furkanbastan/reactjs-sign-up-landing-page",
-            "liveUrl": "https://reactjs-sign-up-landing-page.vercel.app/",
+            "url": "https://reactjs-sign-up-landing-page.vercel.app/",
+            "urlSourceCode": "https://github.com/furkanbastan/reactjs-sign-up-landing-page",
             "image": "sign-up.png"
         },
         {
@@ -38,7 +41,8 @@
             "category": "react.js",
             "title": "Todos App",
             "description": "Todos App created by me. Features redux-toolkit, styled-components, react-hook-forms...",
-            "url": "https://github.com/furkanbastan/reactjs-todo",
+            "url": "https://reactjs-todo-one.vercel.app/",
+            "urlSourceCode": "https://github.com/furkanbastan/reactjs-todo",
             "image": "todo.png"
         },
         {
@@ -46,7 +50,8 @@
             "category": "next.js",
             "title": "Interactive Comments",
             "description": "Interactive comments designed by Frontend Mentor",
-            "url": "https://github.com/furkanbastan/react-interactive-comments",
+            "url": "https://react-interactive-comments-five.vercel.app/",
+            "urlSourceCode": "https://github.com/furkanbastan/react-interactive-comments",
             "image": "interactive-comments.png"
         },
         {
@@ -54,7 +59,8 @@
             "category": "react.js",
             "title": "Newsletter Landing Page",
             "description": "A responsible newsletter landing page...",
-            "url": "https://github.com/furkanbastan/reactjs-newsletter-landing-page",
+            "url": "https://reactjs-newsletter-landing-page.vercel.app/",
+            "urlSourceCode": "https://github.com/furkanbastan/reactjs-newsletter-landing-page",
             "image": "newsletter.png"
         },
         {
@@ -62,8 +68,8 @@
             "category": "react.js",
             "title": "Multi Step Form",
             "description": "Multi Step Form designed by Frontend Mentor",
-            "url": "https://github.com/furkanbastan/reactjs-multi-step-form",
-            "liveUrl": "https://reactjs-multi-step-form.vercel.app/",
+            "url": "https://reactjs-multi-step-form.vercel.app/",
+            "urlSourceCode": "https://github.com/furkanbastan/reactjs-multi-step-form",
             "image": "multi-step-form.png"
         }
     ]
