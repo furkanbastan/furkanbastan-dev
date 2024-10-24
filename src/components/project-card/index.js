@@ -19,7 +19,7 @@ function ProjectCard({ project }) {
                 {project.title}
             </Link>
             <div className={styles.description}>{project.description}</div>
-            <Link href={project.url} className={styles.link} target="_blank">
+            <Link href={project.urlSourceCode} className={styles.link} target="_blank">
                 <FaGithub />
                 &nbsp;<span>Source Code</span>
             </Link>
